@@ -1,0 +1,30 @@
+{
+  "profile": [
+    {
+      "firstName": "Mayur",
+      "lastName": "Dubesdv",
+      "mail": "mayurdubey250@gmail.com",
+      "mobile": 9130592495,
+      "age": 20,
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Amravati",
+      "tags": "Angular",
+      "isSubscribe": true,
+      "id": 1
+    },
+    {
+      "firstName": "Mayur",
+      "lastName": "Dube",
+      "mail": "mayurdubey250@gmail.com",
+      "mobile": 9130592495,
+      "age": 20,
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Amravati",
+      "tags": "Angular",
+      "isSubscribe": true,
+      "id": 2
+    }
+  ]
+}
